@@ -1,0 +1,22 @@
+{
+    "kind": "user",
+    "methods": {
+        "buySubcription()": {
+            "notice": "Allow users to buy a subscription"
+        },
+        "constructor": {
+            "notice": "Constructor contains initial initialization for state variables"
+        },
+        "getContractBalance()": {
+            "notice": "Allow users to check contract balancet"
+        },
+        "getInfoAboutMySubscription()": {
+            "notice": "Allow subscribers to check subscription info"
+        },
+        "withdrawAll()": {
+            "notice": "Allow owner to withdraw all money"
+        }
+    },
+    "notice": "Use this contract for working with subscriptions",
+    "version": 1
+}

@@ -1,0 +1,21 @@
+{
+    "author": "Maksim Eastwood",
+    "details": "Contract under development to increase the functionality",
+    "kind": "dev",
+    "methods": {
+        "buySubcription()": {
+            "details": "Function under development"
+        },
+        "constructor": {
+            "details": "If you want to change count of subscriptions on different levels, you should change the formula"
+        },
+        "getInfoAboutMySubscription()": {
+            "details": "Function under development"
+        },
+        "withdrawAll()": {
+            "details": "Function under development"
+        }
+    },
+    "title": "Subscription tracking machine",
+    "version": 1
+}
